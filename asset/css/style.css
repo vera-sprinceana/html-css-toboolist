@@ -6,9 +6,6 @@
 }
 /*fine reset*/
 
-main{
-    background-color: rgb(204, 203, 203);
-}
 
 /*utilità*/
 html{
@@ -22,6 +19,7 @@ html{
 .m-t{
     margin-top: 10px;
 }
+/**/
 .container{
     width: 70%;
     height: 500px;
